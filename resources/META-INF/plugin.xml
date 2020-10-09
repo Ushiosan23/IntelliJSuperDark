@@ -1,0 +1,42 @@
+<idea-plugin>
+	<id>com.github.ushiosan23.darktheme</id>
+	<name>SuperDark Theme</name>
+	<version>1.0.0</version>
+	<vendor email="haloleyendee@outlook.com" url="https://github.com/Ushiosan23">Ushiosan23</vendor>
+	
+	<description><![CDATA[
+      IntelliJ Dark Theme. <br/>
+      Beautiful dark theme compatible with all IntelliJ IDEs. This theme is based on neon themes.
+      
+      <h1>Screenshots</h1>
+      
+      <img src="/screenshots/start_screen.png"/>
+      <img src="/screenshots/project_screen.png"/>
+      <img src="/screenshots/editor_screen.png"/>
+    ]]></description>
+	
+	<change-notes><![CDATA[
+      <h1>1.0.0</h1>
+      Create base theme styles and some configurations.
+      This theme is very similar to Monokai, but with different backgrounds.
+    ]]>
+	</change-notes>
+	
+	<!-- Idea version -->
+	<idea-version since-build="191.0"/>
+	
+	<!-- Dependencies -->
+	<depends>com.intellij.modules.platform</depends>
+	<depends>com.intellij.modules.lang</depends>
+	
+	<!-- Extensions -->
+	<extensions defaultExtensionNs="com.intellij">
+		<!-- theme -->
+		<themeProvider id="ac4ba088-ea3e-40a5-8c93-1e591beef78b" path="/themes/ide/DarkDark.theme.json"/>
+		<!-- other extensions -->
+	</extensions>
+	
+	<!-- Actions -->
+	<actions/>
+
+</idea-plugin>
