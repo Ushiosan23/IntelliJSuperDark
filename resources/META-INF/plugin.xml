@@ -10,9 +10,12 @@
       
       <h1>Screenshots</h1>
       
-      <img src="/screenshots/start_screen.png"/>
-      <img src="/screenshots/project_screen.png"/>
-      <img src="/screenshots/editor_screen.png"/>
+      <img src="https://raw.githubusercontent.com/Ushiosan23/IntelliJSuperDark/7c6a332e186e7ff44e86ecc7ae3902afbdd56f9a/resources/screenshots/start_screen.png"/>
+      <br/>
+      <img src="https://raw.githubusercontent.com/Ushiosan23/IntelliJSuperDark/7c6a332e186e7ff44e86ecc7ae3902afbdd56f9a/resources/screenshots/project_screen.png"/>
+      <br/>
+      <img src="https://raw.githubusercontent.com/Ushiosan23/IntelliJSuperDark/7c6a332e186e7ff44e86ecc7ae3902afbdd56f9a/resources/screenshots/editor_screen.png"/>
+      <br/>
     ]]></description>
 	
 	<change-notes><![CDATA[
